@@ -1,7 +1,0 @@
-This is a simple bash script which i've wrote that remotely shuts down servers via SSH upon being executed.
-
-We have a pretty large APC UPS and are running Mac and Linux servers, the UPS only has the option for one signal cable which is currently attached to our main server. We don't wan't to pay hundreds of pounds for the additional expansion card so I turned to bash scripting instead.
-
-This may be a little specific to our setup however it can be easily adaptable. As you can see, we are also shutting down FileMaker Pro databases and server to stop data corruption.
-
-This script can be merged/replace the default script located at: /usr/libexec/upsshutdown (Mac OS X)
