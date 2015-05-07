@@ -4,7 +4,7 @@ clear
 #************************************************#
 #               ups_shutdown.sh                  #
 #           written by Mike Stephens             #
-#               bitbytebit.co.uk                 #
+#                 ayup.agency                    #
 #                Jan 05, 2011                    #
 #                                                #
 #          UPS Remote Shutdown Script            #
